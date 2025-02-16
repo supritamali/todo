@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: rgb(206, 178, 233);
+
+}
+.container{
+    color: rgb(240, 150, 150);
+    font-style: italic;
+    background-color: blueviolet;
+    text-align:center;
+    padding: 15px;
+    width: 300px;
+    justify-content:center;
+    margin-top: 200px;
+    margin-left: 600px;
+}
